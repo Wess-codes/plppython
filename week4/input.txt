@@ -1,0 +1,5 @@
+Python is fun to learn.
+It helps automate boring tasks.
+Data analysis is powerful with Python.
+Web development is also possible.
+Let's build something amazing!
